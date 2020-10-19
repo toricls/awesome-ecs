@@ -86,6 +86,8 @@ Tools to help you interact with ECS to launch your containers on your cluster of
   - [ecs-service](https://github.com/ukayani/ecs-service) - CLI tool for deploying to ECS using CloudFormation with support for .env files for environment specific configuration of your containers
   - [kms-env](https://github.com/ukayani/kms-env) - CLI tool for managing secrets using AWS KMS in .env files which can be used in conjunction with **ecs-service** to supply secrets to your containers
   - [Chaos Toolkit](https://docs.chaostoolkit.org/drivers/aws/#ecs) - Chaos toolkit supports ECS as a target for [chaos engineering](https://principlesofchaos.org/)
+  - [AWS Copilot](https://aws.github.io/copilot-cli/) - CLI tool for developers to build, release and operate production ready containerized applications on Amazon ECS and AWS Fargate.
+  - [Docker Compose ECS integration](https://docs.docker.com/engine/context/ecs-integration/) - Use native Docker commands to run applications in Amazon ECS.
 
 ### Implementation Guides
 
